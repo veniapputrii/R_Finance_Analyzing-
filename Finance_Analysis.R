@@ -21,3 +21,5 @@ pheatmap(h_matrix,
          scale = 'column', 
          clustering_distance_rows = "euclidean",
          clustering_distance_cols = "euclidean")
+
+install.packages('tidyverse')
